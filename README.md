@@ -1,8 +1,6 @@
-# Clone repo into own Project
+# Refactoring Gymnastik 
 
-```
-git clone <repo> my-project
-```
+Try to refactor this code using your prefered IDE or the methods described in the book "Refactoring" by Martin Fowler.
 
 # Working with the code
 
