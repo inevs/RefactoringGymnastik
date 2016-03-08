@@ -9,7 +9,7 @@ public class ChangeMethodSignatureTest {
 
 	@Test
 	public void userOfChangeMyMethodSinatureReturnsFoo() {
-		assertThat(new ChangeMethodSignature().userOfChangeMyMethodSinature(), Is.is((Object) "foo"));
+		assertThat(new ChangeMethodSignature().userOfChangeMyMethodSinature(), Is.is((Object) "1"));
 	}
 
 }
